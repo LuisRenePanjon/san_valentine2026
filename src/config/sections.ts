@@ -41,26 +41,26 @@ export const appConfig = {
 
   // 🎨 Orden y estado de las secciones
   sections: [
-    // {
-    //   id: 'welcome' as SectionType,
-    //   enabled: true,
-    //   name: 'Bienvenida'
-    // },
-    // {
-    //   id: 'memory-gallery' as SectionType,
-    //   enabled: true,
-    //   name: 'Galería de Recuerdos'
-    // },
-    // {
-    //   id: 'quiz' as SectionType,
-    //   enabled: true,
-    //   name: 'Quiz de Amor'
-    // },
-    // {
-    //   id: 'puzzle' as SectionType,
-    //   enabled: true,
-    //   name: 'Puzzle'
-    // },
+    {
+      id: 'welcome' as SectionType,
+      enabled: true,
+      name: 'Bienvenida'
+    },
+    {
+      id: 'memory-gallery' as SectionType,
+      enabled: true,
+      name: 'Galería de Recuerdos'
+    },
+    {
+      id: 'quiz' as SectionType,
+      enabled: true,
+      name: 'Quiz de Amor'
+    },
+    {
+      id: 'puzzle' as SectionType,
+      enabled: true,
+      name: 'Puzzle'
+    },
     {
       id: 'proposal' as SectionType,
       enabled: true,
